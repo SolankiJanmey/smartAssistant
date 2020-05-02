@@ -1,7 +1,7 @@
 # smartAssistant
 
 
-git clone https://github.com/SolankiJanmey/smartAssistant.git....
+git clone https://github.com/SolankiJanmey/smartAssistant.git    ....
 
 cd HotelAutomation 
 
