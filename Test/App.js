@@ -28,8 +28,8 @@ export default function App() {
   return (
     <NavigationContainer>
       <Drawer.Navigator initialRouteName="Home">
-        <Drawer.Screen name="Home" component={HomeScreen} />
-        <Drawer.Screen name="Notifications" component={NotificationsScreen} />
+        <Drawer.Screen name="HOME" component={HomeScreen} />
+        <Drawer.Screen name="NOTIFICATIONS" component={NotificationsScreen} />
       </Drawer.Navigator>
     </NavigationContainer>
   );
